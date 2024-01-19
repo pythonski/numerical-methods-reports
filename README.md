@@ -5,4 +5,4 @@ The project is divided into three modules:
 2. The analogous one-dimensional quantum model, implement with exact diagonalization;
 3. A discussion of the statistical physics of the quantum harmonic oscillator, employing MC methods based on the path integral information.
 
-Most of the projects (which I will likely upload at a later time) are coded in Python with snippets of Fortran and C.
+Most of the projects (which I will likely upload at a later time) are coded in Python with snippets of Fortran and C. For any further information refer to the reports themselves.
